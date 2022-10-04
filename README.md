@@ -1,16 +1,19 @@
-# 21 days of code
-Repository created for the 21 days of code challenge with Rocketseat 🚀 // Repositório criado para o desafio de 21 dias de código com a Rocketseat 🚀 
+# 21 days of code // 21 dias de código
+en// Repository created for the 21 days of code challenge with Rocketseat 🚀 
+pt// Repositório criado para o desafio de 21 dias de código com a Rocketseat 🚀 
 
-# 🏁​ Regras 🏁​
+# 🏁​ Rules // Regras 🏁​
+Every day, code for at least 1h;
+Share your progress on social media everyday and tag Rocketseat with the hashtag #21daysdecode;
+Generate networking with people who are also participating in the challenge;
+Add the hashtag #soumarmiteiro.
+
 Todos os dias, codar por pelo menos 1h;
-
 Compartilhar todos os dias o progresso nas redes sociais e marcar a Rocketseat com a hashtag #21diasdecodigo;
-
-Gerar networking com as pessoas que também estão participando do desafio.
-
+Gerar networking com as pessoas que também estão participando do desafio;
 Acrescentar a hashtag #soumarmiteiro.
 
-# 🕹️​ Desafios 🕹️
+# 🕹️​ Challenges // Desafios 🕹️
 - Dia 1: Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. [Link do repositório](https://github.com/jessikaraw/21-days-of-code)
   <br/>![Dia 1](https://media.discordapp.net/attachments/821362753335853147/1009606925605928970/unknown.png?width=150&height=150)
 
