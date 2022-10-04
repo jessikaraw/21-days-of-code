@@ -11,7 +11,7 @@ Gerar networking com as pessoas que também estão participando do desafio.
 Acrescentar a hashtag #soumarmiteiro.
 
 # 🕹️​ Desafios 🕹️
-- Dia 1: Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. [Link do repositório](-o)
+- Dia 1: Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. [Link do repositório](https://github.com/jessikaraw/21-days-of-code)
   <br/>![Dia 1](https://media.discordapp.net/attachments/821362753335853147/1009606925605928970/unknown.png?width=150&height=150)
 
 - Dia 2: Faça um Hello World customizado com fontos, cores e imagens. [Link do desafio](-)
