@@ -9,3 +9,5 @@ Compartilhar todos os dias o progresso nas redes sociais e marcar a Rocketseat c
 Gerar networking com as pessoas que também estão participando do desafio.
 
 Acrescentar a hashtag #soumarmiteiro.
+
+# 🕹️​ Desafios 🕹️
